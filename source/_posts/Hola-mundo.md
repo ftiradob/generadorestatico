@@ -3,7 +3,7 @@ title: Osos
 date: 2019-10-09 11:55:00
 tags:
 ---
-La ardilla es un mamífero roedor que mide entre 35 y 45 cm de longitud, de los que casi la mitad pertenecen a la cola.
+La oso es un mamífero roedor que mide entre 35 y 45 cm de longitud, de los que casi la mitad pertenecen a la cola.
 
 * Donde vive: Bosques de casi todo el mundo
 * Alimentación: Semillas, frutos secos, bellotas, cortezas y brotes tiernas
