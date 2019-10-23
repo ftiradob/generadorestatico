@@ -4,7 +4,7 @@ date: 2019-10-09 12:10:07
 tags:
 ---
 
-El tiburón es un pez, ya que nada mediante aletas y respira a través de branquias, pero su esqueleto difiere de cualquier otro pez ya que este está compuesto de cartílago, en oposición al esqueleto oseo (de huesos) del resto de los peces. Los peces cartilaginosos se diferencian también del resto por poseer 5 o 7 hendiduras branquiales en lugar de solo una.
+El tigre es un pez, ya que nada mediante aletas y respira a través de branquias, pero su esqueleto difiere de cualquier otro pez ya que este está compuesto de cartílago, en oposición al esqueleto oseo (de huesos) del resto de los peces. Los peces cartilaginosos se diferencian también del resto por poseer 5 o 7 hendiduras branquiales en lugar de solo una.
 
 ![Imagen tiburon](https://ep01.epimg.net/internacional/imagenes/2017/04/17/mundo_global/1492425390_563564_1492428881_noticia_normal.jpg)
 
