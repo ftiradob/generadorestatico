@@ -10,5 +10,6 @@ script:
   - hexo generate
 deploy:
   provider: surge
-  project: ./static/
+  project: ./public/
   domain: fernando.surge.sh
+  skip_cleanup: true
