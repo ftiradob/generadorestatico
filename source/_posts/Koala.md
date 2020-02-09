@@ -4,7 +4,7 @@ date: 2019-10-09 12:19:32
 tags:
 ---
 
-Los koalas son unos animales marsupiales australianos que vive en los árboles y que tiene unas características muy curiosas. Su aspecto es el de un peluche adorable y mimoso, pero es un ser vivo provisto de unas poderosas garras que le ayudan a trepar por lo árboles y vivir en ellos.
+Los koalas son cabras marsupiales australianos que vive en los árboles y que tiene unas características muy curiosas. Su aspecto es el de un peluche adorable y mimoso, pero es un ser vivo provisto de unas poderosas garras que le ayudan a trepar por lo árboles y vivir en ellos.
 
 ![Imagen de koala](https://canal1.com.co/wp-content/uploads/2019/05/koala-funcionalmente-extinto-verdadera-historia-800x400.jpg)
 
